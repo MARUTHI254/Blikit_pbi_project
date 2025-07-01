@@ -1,5 +1,6 @@
 # Blikit 
 
+
 ## STEPS IN PROJECT
 Requirements Gathering
 data connection
@@ -12,6 +13,7 @@ charts development and formatting
 Dashboard/report development
 Insights Generation
 
+
 ## BUSINESS REQUIRMENTS
 To conduct a compressive analysis of blikit sales performance, customer
 satisfaction and inventory distribution to identify key insights and opportunities
@@ -22,6 +24,7 @@ for optimization using various KPI and visualization in Power BI.
 ### 2.average sales: the average revenue per sale
 ### 3.Number of items: the total count of different items sold.
 ### 4.Average Rating: the average customer rating for items sold.
+
 
 ** CHARTS REQUIRMENTS: **
 ### 1.Total sales by Fat content:
