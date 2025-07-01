@@ -2,16 +2,16 @@
 
 
 ## STEPS IN PROJECT
-Requirements Gathering
-data connection
-data cleaning
-Data Modeling
-Data Processing
-Dax Calculation
-Dashboard Lay outing
-charts development and formatting
-Dashboard/report development
-Insights Generation
+### Requirements Gathering
+### data connection
+### data cleaning
+### Data Modeling
+### Data Processing
+### Dax Calculation
+### Dashboard Lay outing
+### charts development and formatting
+### Dashboard/report development
+### Insights Generation
 
 
 ## BUSINESS REQUIRMENTS
